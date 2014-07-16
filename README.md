@@ -1,0 +1,1 @@
+A javascript object which allows you to create css animated tabbed content with a jQuery fallback for older browsers.
