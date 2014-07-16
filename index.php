@@ -35,7 +35,7 @@
 							</div>
 							<div class="six columns">
 								<p>
-									This is some content.
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus adipiscing magna non sem lacinia scelerisque. Nunc consectetur ullamcorper posuere. Curabitur egestas, massa eget tempor euismod, tellus ante pulvinar quam, sed consequat lorem tortor interdum lacus. Aliquam pellentesque, ipsum sed iaculis molestie, lacus nunc sodales nisi, non suscipit justo nunc quis massa. Mauris sit amet dui quis erat interdum tincidunt. Maecenas tempus eros eu dui malesuada, in dictum mi luctus. Cras ac consectetur dolor, ac congue quam. Maecenas a massa faucibus erat sagittis egestas. Morbi in odio at velit convallis cursus et vitae sem. Nullam vel erat ligula. Maecenas ullamcorper, lectus non ornare ultricies, purus dui scelerisque libero, sed lacinia nunc ante vel neque. In luctus suscipit lectus, et tempor velit blandit laoreet.
 								</p>
 							</div>
 						</div>
@@ -45,7 +45,7 @@
 							<div class="twelve columns clearfix">
 								<div class="tabbed-content__content__text">
 									<p>
-										This is some content.
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus adipiscing magna non sem lacinia scelerisque. Nunc consectetur ullamcorper posuere. Curabitur egestas, massa eget tempor euismod, tellus ante pulvinar quam, sed consequat lorem tortor interdum lacus. Aliquam pellentesque, ipsum sed iaculis molestie, lacus nunc sodales nisi, non suscipit justo nunc quis massa. Mauris sit amet dui quis erat interdum tincidunt. Maecenas tempus eros eu dui malesuada, in dictum mi luctus. Cras ac consectetur dolor, ac congue quam. Maecenas a massa faucibus erat sagittis egestas. Morbi in odio at velit convallis cursus et vitae sem. Nullam vel erat ligula. Maecenas ullamcorper, lectus non ornare ultricies, purus dui scelerisque libero, sed lacinia nunc ante vel neque. In luctus suscipit lectus, et tempor velit blandit laoreet.
 									</p>
 								</div>
 							</div>
@@ -55,7 +55,7 @@
 						<div class="tabbed-content__content clearfix wrapper">
 							<div class="tabbed-content__content__text">
 								<p>
-									Curabitur nec accumsan enim. Vestibulum tincidunt mauris sed dui eleifend, eget dignissim libero sodales. Maecenas suscipit sodales tortor, vulputate vehicula massa cursus in. Vivamus a tortor id erat aliquam luctus. Sed bibendum, dolor in eleifend venenatis, elit turpis tempus velit, ac elementum eros massa dapibus neque. Sed pretium tincidunt scelerisque. Morbi at vulputate lectus, non luctus elit. Praesent tincidunt mauris quis nunc suscipit, nec ornare dui cursus. Etiam vel pellentesque massa. Nullam interdum justo eu dictum porttitor. Duis pellentesque ullamcorper diam vitae vulputate. Aenean nibh tellus, faucibus consectetur purus quis, faucibus accumsan magna. Nulla id felis auctor, porta mi sit amet, fringilla mi. Nunc sollicitudin porttitor consectetur. Donec consectetur tempus est, at lobortis tortor dignissim quis. Phasellus posuere felis sed mauris semper, ac posuere augue luctus.
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus adipiscing magna non sem lacinia scelerisque. Nunc consectetur ullamcorper posuere. Curabitur egestas, massa eget tempor euismod, tellus ante pulvinar quam, sed consequat lorem tortor interdum lacus. Aliquam pellentesque, ipsum sed iaculis molestie, lacus nunc sodales nisi, non suscipit justo nunc quis massa. Mauris sit amet dui quis erat interdum tincidunt. Maecenas tempus eros eu dui malesuada, in dictum mi luctus. Cras ac consectetur dolor, ac congue quam. Maecenas a massa faucibus erat sagittis egestas. Morbi in odio at velit convallis cursus et vitae sem. Nullam vel erat ligula. Maecenas ullamcorper, lectus non ornare ultricies, purus dui scelerisque libero, sed lacinia nunc ante vel neque. In luctus suscipit lectus, et tempor velit blandit laoreet.
 								</p>
 							</div>
 						</div>
@@ -71,8 +71,8 @@
 		</div>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-		<script type="text/javascript" src="js/main.js"></script>
-		<script type="text/javascript" src="js/objects/tabbed-content.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+		<script type="text/javascript" src="tabbed-content.js"></script>
 
 	</body>
 </html>

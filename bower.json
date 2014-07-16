@@ -1,0 +1,49 @@
+{
+
+    "name": "css-tabbed-content",
+    "authors": [
+   
+        "Brett Chisholm"
+
+    ],
+
+    "description": "CSS tabbed content",
+    "main": "tabbed-content.js",
+    "repository": {
+
+        "type" : "git",
+        "url" : "https://github.com/btc90/fe-css-tabbed-content.git"
+
+    },
+
+    "keywords": [
+
+        "Tabbed",
+        "responsive",
+        "content",
+        "Propeller",
+        "propcomm",
+        "propeller",
+        "propcom"
+
+    ],
+
+    "license": "Public",
+    "homepage": "https://github.com/btc90/fe-css-tabbed-content.git",
+
+    "ignore" : [
+
+        "/sass/main.scss",
+        "/css/",
+        "/index.php"
+
+    ],
+
+    "install" : {
+
+        "tabbed-content.js" : "httpdocs/assets/js/lib",
+        "tabbed-content-init.js" : "httpdocs/assets/js/src"
+
+    }
+
+}
